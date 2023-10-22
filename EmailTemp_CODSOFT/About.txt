@@ -1,0 +1,13 @@
+Fonts used in this design:
+
+Font: Abril Fatface(Primary)
+
+Font: Montserrat(Secondary)
+
+Colours Used:
+
+#D9D9D9
+#000000
+#ACE7FA
+#FFFFFF
+#001C96
